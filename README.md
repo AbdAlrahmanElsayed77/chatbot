@@ -26,10 +26,12 @@ chat-app/
 ---
 
 ## 🧠 Future Enhancements
-- Add user authentication.
-- Support for saving chats in a database.
-- Voice input and text-to-speech output.
-- UI improvements inspired by ChatGPT’s latest design.
+- 🧠 **AI Responses** — Powered by the OpenAI API for natural, human-like answers.  
+- 💬 **ChatGPT-style Interface** — Clean, minimal layout similar to the official ChatGPT UI.  
+- 🌗 **Light/Dark Mode** — Instantly switch between dark and light themes.  
+- 💾 **LocalStorage Integration** — Automatically saves chat history in the browser.  
+- 🧭 **Multiple Chats** — Start new conversations or reopen old ones from the sidebar.  
+- 📱 **Responsive Design** — Works smoothly on both desktop and mobile screens. 
 
 ---
 
