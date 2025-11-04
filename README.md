@@ -5,17 +5,6 @@ It connects to the **OpenAI API** to generate intelligent, human-like responses 
 
 ---
 
-## 🚀 Features
-- ChatGPT-style user interface.  
-- AI-powered responses using the **OpenAI API**.  
-- Sidebar for viewing and managing multiple conversations.  
-- Start new chats or continue old ones.  
-- Light/Dark mode toggle.  
-- LocalStorage support for saving conversations.  
-- Fully responsive for both desktop and mobile.
-
----
-
 ## 🧠 Future Enhancements
 - 🧠 **AI Responses** — Powered by the OpenAI API for natural, human-like answers.  
 - 💬 **ChatGPT-style Interface** — Clean, minimal layout similar to the official ChatGPT UI.  
