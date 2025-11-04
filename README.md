@@ -16,15 +16,6 @@ It connects to the **OpenAI API** to generate intelligent, human-like responses 
 
 ---
 
-## 🧱 Project Structure
-chat-app/
-│
-├── index.html      # Main layout and structure
-├── style.css       # Styling (colors, layout, fonts)
-└── script.js       # Chat logic and OpenAI API integration
-
----
-
 ## 🧠 Future Enhancements
 - 🧠 **AI Responses** — Powered by the OpenAI API for natural, human-like answers.  
 - 💬 **ChatGPT-style Interface** — Clean, minimal layout similar to the official ChatGPT UI.  
