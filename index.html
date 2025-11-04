@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chat App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Sidebar -->
+  <div id="sidebar">
+    <div id="topBar">
+      <button id="newChatBtn">
+        <span style="font-size: 20px">✚</span>
+        New Chat
+      </button>
+    </div>
+    <div id="chatList"></div>
+    <div id="bottomBar">
+      <div id="username">
+        <span style="font-size: 18px">👤</span>
+        Abd Alrahman
+      </div>
+      <button id="themeToggle">🌙</button>
+    </div>
+  </div>
+
+  <!-- Main Chat -->
+  <div id="main">
+    <div id="chatBox">
+      <div class="empty-state">
+        <h1>Welcome 👋</h1>
+        <p>Start a new conversation or choose from previous chats</p>
+      </div>
+    </div>
+    <div id="inputArea">
+      <div class="controls">
+        <textarea id="userInput" placeholder="Type your message here..." rows="1"></textarea>
+        <button id="sendBtn">Send</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
