@@ -41,4 +41,7 @@ chat-app/
 ```js
 const API_KEY = "YOUR_OPENAI_API_KEY";
 
+---
+<img width="1301" height="609" alt="Screenshot 2025-11-04 175205" src="https://github.com/user-attachments/assets/cf4db195-07d4-4e73-9c73-03227402c53b" />
+
 
